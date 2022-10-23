@@ -1,1 +1,1 @@
-# Calculator_App
+Приложение Calculator_App написано при помощи HTML, CSS и JavaScript. Предназначено для расчета данных.
